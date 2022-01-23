@@ -1,0 +1,129 @@
+{
+    "n": 5,
+    "m": 7,
+    "exit": {
+        "x": 3,
+        "y": 8
+    },
+    "cars": [
+        {
+            "length": 3,
+            "direction": 1,
+            "isMainCar": true
+        },
+        {
+            "length": 2,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        }
+    ],
+    "initalCarsPositions": [
+        {
+            "x": 3,
+            "y": 1
+        },
+        {
+            "x": 1,
+            "y": 1
+        },
+        {
+            "x": 4,
+            "y": 1
+        },
+        {
+            "x": 3,
+            "y": 4
+        },
+        {
+            "x": 5,
+            "y": 3
+        },
+        {
+            "x": 3,
+            "y": 6
+        },
+        {
+            "x": 4,
+            "y": 7
+        },
+        {
+            "x": 2,
+            "y": 7
+        },
+        {
+            "x": 1,
+            "y": 2
+        },
+        {
+            "x": 1,
+            "y": 6
+        },
+        {
+            "x": 2,
+            "y": 3
+        },
+        {
+            "x": 4,
+            "y": 2
+        },
+        {
+            "x": 5,
+            "y": 5
+        }
+    ]
+}

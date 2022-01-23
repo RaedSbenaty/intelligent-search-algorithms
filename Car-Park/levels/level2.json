@@ -1,0 +1,63 @@
+{
+    "n": 10,
+    "m": 10,
+    "exits": [
+        {
+            "x": 0,
+            "y": 8
+        },
+        {
+            "x": 7,
+            "y": 11
+        }
+    ],
+    "cars": [
+        {
+            "length": 3,
+            "direction": 0,
+            "isMainCar": true
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": true
+        },
+        {
+            "length": 2,
+            "direction": 1,
+            "isMainCar": false
+        },
+        {
+            "length": 5,
+            "direction": 0,
+            "isMainCar": false
+        },
+        {
+            "length": 4,
+            "direction": 1,
+            "isMainCar": false
+        }
+    ],
+    "initalCarsPositions": [
+        {
+            "x": 6,
+            "y": 8
+        },
+        {
+            "x": 7,
+            "y": 1
+        },
+        {
+            "x": 1,
+            "y": 7
+        },
+        {
+            "x": 5,
+            "y": 4
+        },
+        {
+            "x": 1,
+            "y": 1
+        }
+    ]
+}
